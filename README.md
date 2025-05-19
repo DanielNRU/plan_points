@@ -142,7 +142,7 @@
 ## Контакты
 
 **Разработчик:**  
-Мельник Даниил Владимирович  
+Мельник Даниил
 - **Email:** git@danieln.ru  
 - **GitHub:** [DanielNRU](https://github.com/DanielNRU)  
 - **Hugging Face:** [DanielNRU](https://huggingface.co/DanielNRU)
