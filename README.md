@@ -112,7 +112,7 @@
 
 ---
 
-![Gradio интерфейс](../screenshot.png)
+![Gradio интерфейс](screenshot.png)
 
 ---
 
